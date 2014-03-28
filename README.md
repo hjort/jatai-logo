@@ -1,0 +1,4 @@
+jatai-logo
+==========
+
+Jataí - Logotipos
